@@ -11,7 +11,7 @@
    root directory, uncomment the 2 commented lines in the Dockerfile, and run:
    `docker build -t app .`
    `docker-compose run app bash -c "yarn run deploy"`
-   The site will be published to https://straight-line.github.io/straightline/
+   The site will be published to https://--------.github.io/app/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
